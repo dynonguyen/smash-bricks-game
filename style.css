@@ -1,0 +1,31 @@
+canvas{
+    background-image: url(./img/background.jpg);
+    border: solid 1px red;
+    display: inline;
+    position: relative;
+    margin-left: 150px;
+}
+
+p{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: inline-block;
+}
+
+#score{
+    color: red;
+}
+
+#level{
+    color: blueviolet;
+}
+
+#score:hover,
+#level:hover{
+    background-color: aqua;
+}
+
+
+html{
+    background-image: linear-gradient(rgba(62, 152, 255, 0.7), rgba(134, 190, 253, 0.7));
+}
