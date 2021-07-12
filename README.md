@@ -1,10 +1,15 @@
 
-////////////////////////////// SMASH BRICKS GAME //////////////////////////////////////
+<div align="center">
+  
+  # Smash Bricks Game - Learn JS Canvas
+  ## Một game canvas nhỏ chạy trên nền browser được viết khi tôi bắt đầu tìm hiểu về HTML, CSS, JS cơ bản.
+  
+ </div>
+ 
+ <br />
 
-Một game canvas nhỏ chạy trên nền browser được viết khi tôi bắt đầu tìm hiểu về HTML, CSS, JS cơ bản.
+## Live Demo:  https://tuannguyen2504.github.io/smash-bricks-game/
 
-game được triển khai tại: https://smash-bricks-game.web.app/
-
-//////////////////////////////////// <3 <3 <3 ////////////////////////////////////////
+### Created: 22/10/2019
 
 
